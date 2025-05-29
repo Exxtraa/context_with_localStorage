@@ -1,6 +1,7 @@
 # React + Vite
 
 Also this is a full fledge todo with state magangment with react redux and redux toolikit.
+And this shows the full explanation of context api
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
