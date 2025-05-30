@@ -2,6 +2,8 @@
 
 Also this is a full fledge todo with state magangment with react redux and redux toolikit and all information about it
 
+Also this is a full fledge todo with state magangment with react redux and redux toolikit.
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
